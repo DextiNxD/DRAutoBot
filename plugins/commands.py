@@ -25,7 +25,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🆘 Hᴇʟᴘ 🆘', callback_data='help'),
-                    InlineKeyboardButton('✴️ ᴍᴏᴠɪᴇs Gʀᴏᴜᴘ ✴️', callback_data='about'),
+                    InlineKeyboardButton('✴️ ᴍᴏᴠɪᴇs Gʀᴏᴜᴘ ✴️', url='https://t.me/DigitalReleaseChat'),
                 ],[
                     InlineKeyboardButton('🔰 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔰', url=CHNL_LNK)
                   ]]
@@ -53,7 +53,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🆘 Hᴇʟᴘ 🆘', callback_data='help'),
-                    InlineKeyboardButton('✴️ ᴍᴏᴠɪᴇs Gʀᴏᴜᴘ ✴️', callback_data='about'),
+                    InlineKeyboardButton('✴️ ᴍᴏᴠɪᴇs Gʀᴏᴜᴘ ✴️', url='https://t.me/DigitalReleaseChat'),
                 ],[
                     InlineKeyboardButton('🔰 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔰', url=CHNL_LNK)
                   ]]
@@ -101,7 +101,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🆘 Hᴇʟᴘ 🆘', callback_data='help'),
-                    InlineKeyboardButton('✴️ ᴍᴏᴠɪᴇs Gʀᴏᴜᴘ ✴️', callback_data='about'),
+                    InlineKeyboardButton('✴️ ᴍᴏᴠɪᴇs Gʀᴏᴜᴘ ✴️', url='https://t.me/DigitalReleaseChat'),
                 ],[
                     InlineKeyboardButton('🔰 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔰', url=CHNL_LNK)
                   ]]
